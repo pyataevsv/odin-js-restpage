@@ -70,9 +70,9 @@ h1 {
 body {
     min-height: 100%;
     margin: 0px;
-    /* background-image: url('../wall.jpeg'); */
+    /* background-image: url('wall.jpeg'); */
     position: relative;
-    background-image: linear-gradient(180deg,rgba(0,0,0,.9) 0,rgba(0,0,0,.55) 20%,rgba(0,0,0,.3) 50%,rgba(0,0,0,.1)),url('../wall.jpeg');
+    background-image: linear-gradient(180deg,rgba(0,0,0,.9) 0,rgba(0,0,0,.55) 20%,rgba(0,0,0,.3) 50%,rgba(0,0,0,.1)),url('wall.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
