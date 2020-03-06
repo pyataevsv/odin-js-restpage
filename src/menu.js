@@ -6,7 +6,7 @@ export function makeMenu(){
     const box = document.createElement('div');
     box.classList.add('menu-box');
     cont.appendChild(box);
-    box.innerHTML = '<img src="../cold-snacks.png" width="200px">';
+    box.innerHTML = '<img src="cold-snacks.png" width="200px">';
     const h2 = document.createElement('h2');
     h2.textContent = 'Холодные закуски';
     box.appendChild(h2);

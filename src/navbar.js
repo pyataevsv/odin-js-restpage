@@ -14,7 +14,7 @@ nav.classList.add('nav');
 cont.appendChild(nav);
 
 const logo = document.createElement('img');
-logo.src = '../khinkali.png'
+logo.src = 'khinkali.png'
 logo.style.width = '60px';
 logo.style.filter = 'brightness(200%)';
 logo.style.cursor = 'pointer';
